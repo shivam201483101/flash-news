@@ -13,7 +13,7 @@ colorama==0.4.6
 confection==0.1.4
 cssselect==1.2.0
 cymem==2.0.8
-Django==5.0.3
+Django
 django-social-share==2.3.0
 dnspython==1.16.0
 feedfinder2==0.0.4
